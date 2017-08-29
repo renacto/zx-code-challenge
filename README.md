@@ -18,7 +18,7 @@ Run `npm install` to install all dependencies used in this exercise.
 
 * Get by ID
 ```javascript
-{ pdv(id: 53) { id tradingNameownerName address { coordinates } coverageArea { coordinates } } }
+{ pdv(id: 1) { id tradingName ownerName address { coordinates } coverageArea { coordinates } } }
 ```
 * Get Nearest
 ```javascript
