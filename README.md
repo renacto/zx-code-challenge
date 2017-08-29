@@ -15,4 +15,4 @@ Run `npm install` to install all dependencies used in this exercise.
 
 ## Testing
 
-While the app is running, run in the root project directory `npm test` to execute a test suite on the provided service.
+While the app is running, browse to the root project directory and run `npm test` to execute a test suite on the provided service.
