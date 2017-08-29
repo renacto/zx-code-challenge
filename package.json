@@ -2,7 +2,7 @@
   "name": "codechallenge",
   "version": "1.0.0",
   "description": "Exercício ZXVentures",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec"
   },
