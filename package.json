@@ -6,10 +6,10 @@
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec"
   },
-  "repository" :
-  { "type" : "git"
-  , "url" : "https://github.com/renacto/zx-code-challenge.git"
-  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renacto/zx-code-challenge.git"
+  },
   "author": "Renato Gallart",
   "license": "ISC",
   "dependencies": {

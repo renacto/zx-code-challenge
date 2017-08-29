@@ -1,7 +1,7 @@
 const express = require('express')
 const graphqlHTTP = require('express-graphql')
-const db = require('./mongodbmodule.js');
-const pdv = require('./schema')
+const db = require('./lib/mongo/mongodbmodule.js');
+const pdv = require('./lib/models/schema')
 
 db.connect()
     .then(() => console.log('Database connected'))
